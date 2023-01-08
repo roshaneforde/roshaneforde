@@ -1,6 +1,6 @@
 ## Hi, I'm Roshane :relaxed:
 
-I'm a Full-Stack Web Developer with 5 years of experience building WordPress themes and plugins. I'm also proficient in developing web applications using Laravel, Vue JS, and React JS. I appreciate working with brilliant people, crafting software that brings value to customers, and constantly improving my skills.
+I'm a Web Developer with 5 years of experience building WordPress themes and plugins. I'm also proficient in developing web applications using Laravel, Vue.js, and React.js. I appreciate working with brilliant people, crafting software that brings value to customers, and constantly improving my skills.
 
 
 ### Languages and Tools :hammer_and_wrench:
