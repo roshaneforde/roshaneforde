@@ -4,9 +4,6 @@ I am a Senior WordPress Developer with extensive experience in building WordPres
 
 Over the last 5 years, I have had the opportunity to work with companies of varying sizes, allowing me to acquire a diverse set of skills. I have a proven track record of delivering projects on time while effectively communicating with team members and clients. Long term, I aspire to continue improving my skills and contribute to the success of the organizations I work for.
 
-I enjoy working with brilliant people, developing software that brings value to customers, and constantly improving my skills.
-
-
 ### Languages and Tools :hammer_and_wrench:
 
 <img align="left" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> 
