@@ -33,4 +33,3 @@ Over the last 5 years, I have had the opportunity to work with companies of vary
 ### Contact Me :speech_balloon:
 * :globe_with_meridians: Portfolio - [roshaneforde.com](https://roshaneforde.com)
 * :bookmark_tabs: LinkedIn - [linkedin.com/in/roshaneforde](https://www.linkedin.com/in/roshaneforde/)
-* :email: Email - <a href="mailto:rosh@roshaneforde.com">rosh@roshaneforde.com</a> 
