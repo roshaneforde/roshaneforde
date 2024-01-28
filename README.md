@@ -1,6 +1,6 @@
 ## Hi, I'm Roshane :relaxed:
 
-I am a seasoned WordPress Developer with extensive experience in building WordPress themes and plugins. I'm also proficient in developing web applications using Laravel, Vue.js, and React.js.
+I am a seasoned WordPress Developer with extensive experience building WordPress themes and plugins. I'm also proficient in developing web applications using Laravel, Vue.js, and React.js.
 
 I have a history of meeting project deadlines, while effectively communicating with team members and clients. Going forward, my goal is to continually improve my skills and contribute to the success of the organizations I work with.
 
